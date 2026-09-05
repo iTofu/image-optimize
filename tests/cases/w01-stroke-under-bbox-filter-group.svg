@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><filter id="f" x="0" y="0" width="0.5" height="1"><feOffset dx="0" dy="0"/></filter><g filter="url(#f)" stroke="blue" stroke-width="20" fill="none"><path d="M20 20H80V80H20Z"/></g></svg>

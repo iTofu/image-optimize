@@ -1,0 +1,3 @@
+masks:0 masks-left:2 strokes:0
+WARN: mask #soft left as-is: fill-opacity inside <mask> (soft mask)
+WARN: <g> masked by #hard left as-is: <path> with an unflattened mask inside masked content

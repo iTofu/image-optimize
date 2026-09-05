@@ -1,0 +1,3 @@
+masks:0 masks-left:1 strokes:0
+WARN: mask #m left as-is: fill-opacity inside <mask> (soft mask)
+WARN: stroke on <path> left as-is: ancestor <g> mask laid out in objectBoundingBox units

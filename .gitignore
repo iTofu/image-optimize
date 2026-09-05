@@ -1,0 +1,8 @@
+.DS_Store
+.handoff/
+.worktrees/
+.pr-review-loop/
+tests/out/
+tests/rendersvg
+__pycache__/
+.pytest_cache/

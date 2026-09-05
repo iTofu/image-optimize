@@ -1,0 +1,8 @@
+# Pinned so that tests/expected/ is reproducible: path booleans come from skia-pathops and a
+# different build may emit slightly different (but equivalent) path data.
+picosvg==0.22.3
+skia-pathops==0.9.2
+lxml==6.0.2
+pytest>=8
+# render harness only (tests/run.sh)
+Pillow>=10

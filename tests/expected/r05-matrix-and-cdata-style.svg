@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 36">
+  <style> .a { fill: #00f; } </style>
+  <mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="36">
+    <path fill="white" d="M0,0 L30,0 L30,36 L0,36 Z"/>
+  </mask>
+  <g mask="url(#m)" transform="matrix(0.8 0.2 -0.2 0.8 6 2)">
+    <path class="a" fill="#f00" d="M4,4 L44,4 L44,32 L4,32 Z"/>
+  </g>
+</svg>
