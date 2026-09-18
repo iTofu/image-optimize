@@ -1,6 +1,6 @@
 ---
 name: image-optimize
-description: Use when any SVG or PNG file is added to the project — exported from Figma, provided by user, or downloaded from any source. **BLOCKING**: after any file write touches `*.svg` or `*.png` under a project path (especially `.xcassets/`), STOP and invoke this skill before any next action (writing `Contents.json`, referencing the asset in code, committing, etc.). Continuing without running this skill is a violation.
+description: 'Use when any SVG or PNG file is added to the project — exported from Figma, provided by user, or downloaded from any source. **BLOCKING**: after any file write touches `*.svg` or `*.png` under a project path (especially `.xcassets/`), STOP and invoke this skill before any next action (writing `Contents.json`, referencing the asset in code, committing, etc.). Continuing without running this skill is a violation.'
 ---
 
 # Image Optimize
